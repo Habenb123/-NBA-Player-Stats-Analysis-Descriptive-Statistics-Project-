@@ -1,0 +1,22 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated Data files (uncomment if you want to exclude generated datasets from Git)
+nba_2024_totals.csv
